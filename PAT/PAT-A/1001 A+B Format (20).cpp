@@ -31,3 +31,33 @@ int main()
 	}
 	return 0;
 }
+
+
+/**简介方案
+#include<cstdio>
+#include<iostream>
+#include<cstring>
+#include<sstream>
+using namespace std;
+//zhicheng
+//Jul.5,2018
+int main()
+{
+	int a,b;
+	while(cin>>a>>b)
+	{
+		stringstream ss;
+		ss<<a+b;
+		string s=ss.str();
+		int len=s.length();
+		for(int i=0;i<len;i++)
+		{
+			cout<<s[i];
+			if(s[i]=='-') continue;
+			if((i+1)%3==len%3&&i!=len-1) cout<<",";
+		}
+		cout<<endl;
+
+	}
+	return 0;
+}*/
