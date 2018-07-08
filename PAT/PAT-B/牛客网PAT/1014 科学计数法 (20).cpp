@@ -1,8 +1,8 @@
-#include<cstdio>
 /**
  * 1014 科学计数法 (20)
  * https://www.nowcoder.com/pat/6/problem/4050
  */
+#include<cstdio>
 #include<iostream>
 using namespace std;
 //zhicheng
