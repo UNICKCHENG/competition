@@ -1,6 +1,7 @@
 /**
  * 1014 科学计数法 (20)
  * https://www.nowcoder.com/pat/6/problem/4050
+ * 耗时15min
  */
 #include<cstdio>
 #include<iostream>
