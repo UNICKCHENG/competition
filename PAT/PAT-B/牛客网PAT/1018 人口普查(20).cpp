@@ -14,10 +14,10 @@ int main()
 	int n;
 	while(scanf("%d",&n)!=EOF)
 	{
-		string start="1814/09/06",end="2014/09/06";
+		string start="1814/09/06",end="2014/09/06";//合法日期的范围
 		string maxn,minn,max_bir="1814/09/05",min_bir="2014/09/07";
-		string name,bir;
-		int count=0;
+		string name,bir;//要输入的变量
+		int count=0;//记录合法日期的数量
 		while(n--)
 		{
 			cin>>name>>bir;
