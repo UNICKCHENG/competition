@@ -2,6 +2,7 @@
  * The Best Rank (25)
  * PTA:https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480
  * nowcoder:https://www.nowcoder.com/pat/1/problem/3992
+ * code:https://paste.ubuntu.com/p/9QP87sgmVk/
  */
 //PAT and nowcoder ＡＣ
 #include<cstdio>
