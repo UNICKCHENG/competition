@@ -79,7 +79,7 @@ bool is_True(D a)
 }
 int main()
 {
-	freopen("1.txt","r",stdin);
+	//freopen("1.txt","r",stdin);
 	int n,cnt=1;
 	string na,flg,da;
 	for(int i=0;i<24;i++) scanf("%d",&rate[i]);//input the rate structure
