@@ -1,4 +1,5 @@
 PAT (Advanced Level) Practice
-|ID|TITLE|C/C++　code|备注|
-|:-:|:-:|:-:|
-||||
+
+|ID|TITLE|C/C++ code|备注|
+|:-:|:-:|:-:|:-:|
+|-|-|-|-|
