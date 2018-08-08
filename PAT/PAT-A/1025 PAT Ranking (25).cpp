@@ -63,7 +63,8 @@ int main()
 }
 
 
-------
+-----------
+// older version
 #include<cstdio>
 #include<iostream>
 #include<vector>
