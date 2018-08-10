@@ -13,3 +13,4 @@
 |[1023](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|Have Fun with Numbers (20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1023%20Have%20Fun%20with%20Numbers%20(20).cpp)|字符串处理|
 |[1024](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)|Palindromic Number (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1024%20Palindromic%20Number%20(25).cpp)|字符串处理|
 |[1025](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)|PAT Ranking (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1025%20PAT%20Ranking%20(25).cpp)|[排序](https://github.com/UNICKCHENG/competition/issues/1)|
+|[1027](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768)|Colors in Mars (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1027%20Colors%20in%20Mars%20(20).cpp)|进制转换|
