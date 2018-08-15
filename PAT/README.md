@@ -22,7 +22,7 @@
 |[1017](https://pintia.cn/problem-sets/994805342720868352/problems/994805491530579968)|Queueing at Bank (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1017%20Queueing%20at%20Bank%20(25).cpp)||
 |[1018](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024)|Public Bike Management (30)|查看代码||
 |[1019](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984)|General Palindromic Number (20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1019%20General%20Palindromic%20Number%20(20)%EF%BC%8Ecpp)|进制转换|
-|[1020](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)|Tree Traversals (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1020%20Tree%20Traversals%20(25).cpp)|建树,树的广搜|
+|[1020](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)|Tree Traversals (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1020%20Tree%20Traversals%20(25).cpp)|[建树,树的广搜](https://github.com/UNICKCHENG/competition/issues/2)|
 |[1021](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)|Deepest Root (25)|查看代码||
 |[1022](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336)|Digital Library (30)|查看代码||
 |[1023](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992)|Have Fun with Numbers (20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1023%20Have%20Fun%20with%20Numbers%20(20).cpp)|字符串处理|
