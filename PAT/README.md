@@ -8,6 +8,12 @@
 |[1003](https://pintia.cn/problem-sets/994805342720868352/problems/994805523835109376)|Emergency (25)|查看题解||
 |[1004](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184)|Counting Leaves (30)|查看题解||
 |[1005](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)|Spell It Right (20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1005%20Spell%20It%20Right%20(20).cpp)|字符串处理|
+|[1006](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928)|Sign In and Sign Out (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1006%20Sign%20In%20and%20Sign%20Out%20(25).cpp)||
+|[1007](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)|Maximum Subsequence Sum (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1007%20Maximum%20Subsequence%20Sum%20(25).cpp)||
+|[1008](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016)|Elevator (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1008%20Elevator%20(20).cpp)||
+|[1009](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344)|Product of Polynomials (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1009%20Product%20of%20Polynomials%20(25).cpp)||
+|[1010](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)|Radix (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1010%20Radix%20(25).cpp)||
+|[1011](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944)|World Cup Betting (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1011%20World%20Cup%20Betting%20(20).cpp)||
 |[1012](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480)|The Best Rank (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1012%20The%20Best%20Rank%20(25).cpp)|[排序](https://github.com/UNICKCHENG/competition/issues/1)|
 |[1014](https://pintia.cn/problem-sets/994805342720868352/problems/994805498207911936)|Waiting in Line (30)|查看代码||
 |[1018](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024)|Public Bike Management (30)|查看代码||
