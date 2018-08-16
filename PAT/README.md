@@ -35,4 +35,4 @@
 |[1030](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)|Travel Plan (30)|查看代码||
 |[1031](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416)|Hello World for U (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1031%20Hello%20World%20for%20U%20(20).cpp)|输出格式,图形打印|
 |[1032](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920)|Sharing (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1032%20Sharing%20(25).cpp)|链表遍历|
-|[1033](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|To Fill or Not to Fill (25)|查看代码||
+|[1033](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|To Fill or Not to Fill (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25).cpp)|寻按照规律,贪心算法|
