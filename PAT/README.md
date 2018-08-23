@@ -43,3 +43,4 @@
 |[1038](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)|Recover the Smallest Number (30)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1038%20Recover%20the%20Smallest%20Number%20(30).cpp)|排序|
 |[1039](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416)|Course List for Student (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1039%20Course%20List%20for%20Student%20(25).cpp)|哈希表|
 |[1040](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)|Longest Symmetric String (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1040%20Longest%20Symmetric%20String%20(25).cpp)|最长回文子串,动态规划|
+|[1041](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)|Be Unique (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1041%20Be%20Unique%20(20).cpp)|水题,哈希散列|
