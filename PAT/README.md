@@ -44,6 +44,7 @@
 |[1039](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416)|Course List for Student (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1039%20Course%20List%20for%20Student%20(25).cpp)|哈希表|
 |[1040](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)|Longest Symmetric String (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1040%20Longest%20Symmetric%20String%20(25).cpp)|最长回文子串,动态规划|
 |[1041](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)|Be Unique (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1041%20Be%20Unique%20(20).cpp)|水题,哈希散列|
+|[1042](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672)|Shuffling Machine(20)|查看题解||
 |[1043](https://pintia.cn/problem-sets/994805342720868352/problems/994805440976633856)|Is It a Binary Search Tree（25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1043%20Is%20It%20a%20Binary%20Search%20Tree%EF%BC%8825%EF%BC%89.cpp)|二叉搜索树|
 |[1044](https://pintia.cn/problem-sets/994805342720868352/problems/994805439202443264)|Shopping in Mars（25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1044%20Shopping%20in%20Mars(25).cpp)|连续和+二分法|
 |[1045](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)|1045 Favorite Color Stripe(30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1045%20Favorite%20Color%20Stripe(30).cpp)|哈系散列+前序列和|
