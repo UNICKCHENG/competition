@@ -38,7 +38,7 @@
 |[1033](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)|To Fill or Not to Fill (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25).cpp)|寻按照规律,贪心算法|
 |[1034](https://pintia.cn/problem-sets/994805342720868352/problems/994805456881434624)|Head of a Gang (30)|查看代码||
 |[1035](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)|Password (20)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1035%20Password%20(20).cpp)|字符串处理|
-|[1036](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)|1036 Boys vs Girls (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1036%20Boys%20vs%20Girls%20(25).cpp)|水题|
+|[1036](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016)|Boys vs Girls (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1036%20Boys%20vs%20Girls%20(25).cpp)|水题|
 |[1037](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)|Magic Coupon (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1037%20Magic%20Coupon%20(25).cpp)|贪心算法|
 |[1038](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)|Recover the Smallest Number (30)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1038%20Recover%20the%20Smallest%20Number%20(30).cpp)|排序|
 |[1039](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416)|Course List for Student (25)|[查看代码](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1039%20Course%20List%20for%20Student%20(25).cpp)|哈希表|
@@ -47,4 +47,8 @@
 |[1042](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672)|Shuffling Machine(20)|查看题解||
 |[1043](https://pintia.cn/problem-sets/994805342720868352/problems/994805440976633856)|Is It a Binary Search Tree（25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1043%20Is%20It%20a%20Binary%20Search%20Tree%EF%BC%8825%EF%BC%89.cpp)|二叉搜索树|
 |[1044](https://pintia.cn/problem-sets/994805342720868352/problems/994805439202443264)|Shopping in Mars（25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1044%20Shopping%20in%20Mars(25).cpp)|连续和+二分法|
-|[1045](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)|1045 Favorite Color Stripe(30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1045%20Favorite%20Color%20Stripe(30).cpp)|哈系散列+前序列和|
+|[1045](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)|Favorite Color Stripe(30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1045%20Favorite%20Color%20Stripe(30).cpp)|哈系散列+前序列和|
+|[1046](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424)|Shortest Distance(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1046%20Shortest%20Distance(20).cpp)|模拟|
+|[1047](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960)|Student List for Course(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1047%20Student%20List%20for%20Course(25).cpp)|STL中vector使用,与1039题同类|
+|[1048](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)|Find Coins(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1048%20Find%20Coins(25).cpp)|哈希散列,与题1044类似|
+|[1049](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456)|Counting Ones(30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1049%20Counting%20Ones(30).cpp)|数学问题|
