@@ -54,5 +54,5 @@
 |[1049](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456)|Counting Ones(30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1049%20Counting%20Ones(30).cpp)|数学问题|
 |[1050](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152)|String Subtraction (20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1050%20String%20Subtraction%20(20).cpp)|哈希散列|
 |[1051](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944)|Pop Sequence (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1051%20Pop%20Sequence%20(25).cpp)|栈的基本操作|
-|[1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944)|Pop Sequence (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1052%20Linked%20List%20Sorting%20(25).cpp)|链表操作|
+|[1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464)|Linked List Sorting (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1052%20Linked%20List%20Sorting%20(25).cpp)|链表操作|
 |[1053](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512)|Path of Equal Weight (30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/master/PAT/PAT-A/1053%20Path%20of%20Equal%20Weight%20(30).cpp)|树的深度遍历|
