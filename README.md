@@ -3,15 +3,15 @@
 
 ## 目录
 
-- [PAT (Basic Level) Practice](#PAT (Basic Level) Practice)
-- [PAT (Advanced Level) Practice](#PAT (Advanced Level) Practice)
+- [PAT (Basic Level) Practice](#PAT_(Basic_Level)_Practice)
+- [PAT (Advanced Level) Practice](#PAT_(Advanced_Level)_Practice)
 - PAT (Top Level) Practice)
 
 ---
 
 
 
-### **PAT (Basic Level) Practice**
+### **PAT_(Basic_Level)_Practice**
 
 > 代码:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
@@ -25,7 +25,7 @@
 
 
 
-### **PAT (Advanced Level) Practice**
+### **PAT_(Advanced_Level)_Practice**
 
 > 代码:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 
