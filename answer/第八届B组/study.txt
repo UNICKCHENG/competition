@@ -1,0 +1,1 @@
+1、素数的情况：https://www.cnblogs.com/douzujun/p/7955764.html
