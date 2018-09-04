@@ -1,5 +1,33 @@
-# PAT (Advanced Level) Practice
+# PAT  Practice
 *更新中～*
+
+## 目录
+
+- [PAT (Basic Level) Practice](#PAT (Basic Level) Practice)
+- [PAT (Advanced Level) Practice](#PAT (Advanced Level) Practice)
+- PAT (Top Level) Practice)
+
+---
+
+
+
+### **PAT (Basic Level) Practice**
+
+> 代码:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
+
+|                              ID                              |        TITLE         |                          C/C++ code                          |    备注    |
+| :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: | :--------: |
+| [1081](https://pintia.cn/problem-sets/994805260223102976/problems/994805261217153024) |     检查密码(15)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1081%20%E6%A3%80%E6%9F%A5%E5%AF%86%E7%A0%81(15).cpp) | 字符串遍历 |
+| [1082](https://pintia.cn/problem-sets/994805260223102976/problems/994805260990660608) |     射击比赛(20)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1082%20%E5%B0%84%E5%87%BB%E6%AF%94%E8%B5%9B(20).cpp) |  数学问题  |
+| [1083](https://pintia.cn/problem-sets/994805260223102976/problems/994805260780945408) | 是否存在相等的差(20) | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1083%20%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%9B%B8%E7%AD%89%E7%9A%84%E5%B7%AE(20).cpp) |  哈希映射  |
+| [1084](https://pintia.cn/problem-sets/994805260223102976/problems/994805260583813120) |     外观数列(20)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1084%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97(20).cpp) |  数组处理  |
+| [1085](https://pintia.cn/problem-sets/994805260223102976/problems/994805260353126400) |   PAT单位排行(25)    | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1085%20PAT%E5%8D%95%E4%BD%8D%E6%8E%92%E8%A1%8C(25).cpp) |  排序问题  |
+
+
+
+### **PAT (Advanced Level) Practice**
+
+> 代码:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 
 |ID|TITLE|C/C++ code|备注|
 |:-:|:-:|:-:|:-:|
