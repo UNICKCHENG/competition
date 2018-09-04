@@ -1,7 +1,7 @@
 # 说明(中文版)
 
 有很多关于算法的比赛，将会在这个项目下进行更新,同时我将持续更新维护～～<br>
-当然,如果您对其中有所困惑或者有更好的建议,欢迎在[Issues](https://github.com/UNICKCHENG/competition/issues)处留言,抑或给我发[Pull requests](https://github.com/UNICKCHENG/competition/pulls)
+当然,如果您对这个项目感兴趣的话,可以对其进行**Watch**或者**Star**,一旦该项目发生了更新您将会第一时间收到通知.如果在这个过程中您有所困惑或者有更好的建议,欢迎在[Issues](https://github.com/UNICKCHENG/competition/issues)处留言,抑或给我发[Pull requests](https://github.com/UNICKCHENG/competition/pulls)
 
 
 
