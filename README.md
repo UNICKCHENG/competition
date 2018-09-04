@@ -28,7 +28,7 @@
 
 关于PAT所有代码被存放在该项目[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)下,如过你想将代码拷贝至本地,请输入下述命令
 
-```python
+```
 $ git clone -b PAT https://github.com/UNICKCHENG/competition.git
 ```
 
@@ -42,7 +42,7 @@ $ git clone -b PAT https://github.com/UNICKCHENG/competition.git
 
 关于蓝桥杯部分代码被存放在该项目[lanqiao分支](https://github.com/UNICKCHENG/competition/tree/lanqiao)下,如果你想将代码拷贝至本地,请输入下述命令
 
-```python
+```
 $ git clone -b lanqiao https://github.com/UNICKCHENG/competition.git
 ```
 
