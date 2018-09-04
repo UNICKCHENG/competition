@@ -1,5 +1,9 @@
 # PAT  Practice
-*更新中～*
+*更新中～*<br>
+
+由于将原先master分支下的迁移到PAT分支下,可能导致部分链接失效,最好找到对应文件夹打开~~<br>
+
+对于这个问题,我将在近期进行修复
 
 ## 目录
 
@@ -13,7 +17,7 @@
 
 ### **PAT_(Basic_Level)_Practice**
 
-> 代码:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
+> 代码链接:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
 |                              ID                              |        TITLE         |                          C/C++ code                          |    备注    |
 | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: | :--------: |
@@ -27,7 +31,9 @@
 
 ### **PAT_(Advanced_Level)_Practice**
 
-> 代码:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
+> 代码链接:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
+>
+> 以下代码链接已经全部失效,请用上面**代码链接**打开
 
 |ID|TITLE|C/C++ code|备注|
 |:-:|:-:|:-:|:-:|
