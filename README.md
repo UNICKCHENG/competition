@@ -4,7 +4,7 @@
 当然,如果您对这个项目感兴趣的话,可以对其进行**Watch**或者**Star**,从而您将会第一时间收到更新通知.如果在这个过程中您有所困惑或者有更好的建议,欢迎在[Issues](https://github.com/UNICKCHENG/competition/issues)处留言,抑或给我发[Pull requests](https://github.com/UNICKCHENG/competition/pulls)
 
 ## 目录
-- [PAT(计算机程序设计能力考试)](#PAT(计算机程序设计能力考试))
+- [PAT(计算机程序设计能力考试)](#PAT)
 - [蓝桥杯](#蓝桥杯)
 
 ---
