@@ -3,7 +3,11 @@
 有很多关于算法的比赛，将会在这个项目下进行更新,同时我将持续更新维护～～<br>
 当然,如果您对这个项目感兴趣的话,可以对其进行**Watch**或者**Star**,从而您将会第一时间收到更新通知.如果在这个过程中您有所困惑或者有更好的建议,欢迎在[Issues](https://github.com/UNICKCHENG/competition/issues)处留言,抑或给我发[Pull requests](https://github.com/UNICKCHENG/competition/pulls)
 
+## 目录
+- [PAT(计算机程序设计能力考试)](#PAT(计算机程序设计能力考试))
+- [蓝桥杯](#蓝桥杯)
 
+---
 
 ## PAT(计算机程序设计能力考试)
 
@@ -16,12 +20,12 @@
 - 练习系统:[https://pintia.cn/problem-sets/994805260223102976/problems](https://pintia.cn/problem-sets/994805260223102976/problems)
 - 代码地址:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
-1. **PAT-A(PAT (Advanced Level) Practice)**
+2. **PAT-A(PAT (Advanced Level) Practice)**
 
 - 练习系统:[https://pintia.cn/problem-sets/994805342720868352/problems](https://pintia.cn/problem-sets/994805342720868352/problems)
 - 代码地址:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 
-1. **PAT-T(PAT (Top Level) Practice)**
+3. **PAT-T(PAT (Top Level) Practice)**
 
 - 练习系统:[https://pintia.cn/problem-sets/994805148990160896/problems](https://pintia.cn/problem-sets/994805148990160896/problems)
 - 代码地址:*待开始...*
