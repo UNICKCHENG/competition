@@ -9,7 +9,7 @@
 #include<vector>
 using namespace std;
 // zhicheng
-// September,11,2018
+// September,10,2018
 int main() 
 {
     freopen("1.in","r",stdin);

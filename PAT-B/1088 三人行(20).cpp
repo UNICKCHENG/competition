@@ -9,7 +9,7 @@
 #include<cmath>
 using namespace std;
 // zhicheng
-// September,11,2018
+// September,10,2018
 int main()
 {
     int m,x,y,i;
