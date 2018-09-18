@@ -13,15 +13,15 @@ If you want to enter the official question bank, you can click on the link above
 
 - [HOME](https://github.com/UNICKCHENG/competition)
 
-- [PAT (Basic Level) Practice](###PAT)
-- [PAT (Advanced Level) Practice](##PAT)
+- [PAT (Basic Level) Practice](#PAT)
+- [PAT (Advanced Level) Practice](#PAT)
 - PAT (Top Level) Practice)
 
 ---
 
 
 
-### PAT-A
+## PTA-B
 
 > Code Link(C/C++): [https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
@@ -40,7 +40,7 @@ If you want to enter the official question bank, you can click on the link above
 
 
 
-### PAT
+# PAT
 
 > Code Link(C/C++):[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 >
