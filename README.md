@@ -7,21 +7,21 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 - [PAT (Advanced Level) Practice](https://pintia.cn/problem-sets/994805342720868352/problems)
 - [PAT (Top Level) Practice)](https://pintia.cn/problem-sets/994805148990160896/problems)
 
-If you want to enter the official question bank, you should click on the link above.
+If you want to enter the official question bank, you can click on the link above.
 
 ## 目录
 
 - [HOME](https://github.com/UNICKCHENG/competition)
 
-- [PAT (Basic Level) Practice](#PAT_(Basic_Level)_Practice)
-- [PAT (Advanced Level) Practice](#PAT_(Advanced_Level)_Practice)
+- [PAT (Basic Level) Practice](#PAT-B)
+- [PAT (Advanced Level) Practice](#PAT-A)
 - PAT (Top Level) Practice)
 
 ---
 
 
 
-### PAT_(Basic_Level)_Practice
+### PAT-B
 
 > Code Link(C/C++): [https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
@@ -40,7 +40,7 @@ If you want to enter the official question bank, you should click on the link ab
 
 
 
-### PAT_(Advanced_Level)_Practice
+### PAT-A
 
 > Code Link(C/C++):[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 >
