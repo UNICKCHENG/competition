@@ -13,8 +13,8 @@ If you want to enter the official question bank, you can click on the link above
 
 - [HOME](https://github.com/UNICKCHENG/competition)
 
-- [PAT (Basic Level) Practice](#PAT)
-- [PAT (Advanced Level) Practice](#PAT)
+- [PAT (Basic Level) Practice](###PAT)
+- [PAT (Advanced Level) Practice](##PAT)
 - PAT (Top Level) Practice)
 
 ---
