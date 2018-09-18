@@ -1,9 +1,17 @@
 # PAT  Practice
-*更新中～*<br>
+*Updating～*<br>
+
+PTA will be updated in this branch by me.You can **Watch** or **Start** this Repository to receive project update message in the first time. Of course, you can **[Issue](https://github.com/UNICKCHENG/competition/issues)** to me when you meet some problems.
+
+- [PAT (Basic Level) Practice](https://pintia.cn/problem-sets/994805260223102976/problems)
+- [PAT (Advanced Level) Practice](https://pintia.cn/problem-sets/994805342720868352/problems)
+- [PAT (Top Level) Practice)](https://pintia.cn/problem-sets/994805148990160896/problems)
+
+If you want to enter the official question bank, you should click on the link above.
 
 ## 目录
 
-- [项目首页](https://github.com/UNICKCHENG/competition)
+- [HOME](https://github.com/UNICKCHENG/competition)
 
 - [PAT (Basic Level) Practice](#PAT_(Basic_Level)_Practice)
 - [PAT (Advanced Level) Practice](#PAT_(Advanced_Level)_Practice)
@@ -15,9 +23,9 @@
 
 ### PAT_(Basic_Level)_Practice
 
-> 代码链接:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
+> Code Link(C/C++): [https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
-|                              ID                              |        TITLE         |                          C/C++ code                          |    备注    |
+|                              ID                              |        TITLE         |                          C/C++ code                          |  Remarks   |
 | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: | :--------: |
 | [1081](https://pintia.cn/problem-sets/994805260223102976/problems/994805261217153024) |     检查密码(15)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1081%20%E6%A3%80%E6%9F%A5%E5%AF%86%E7%A0%81(15).cpp) | 字符串遍历 |
 | [1082](https://pintia.cn/problem-sets/994805260223102976/problems/994805260990660608) |     射击比赛(20)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1082%20%E5%B0%84%E5%87%BB%E6%AF%94%E8%B5%9B(20).cpp) |  数学问题  |
@@ -34,10 +42,10 @@
 
 ### PAT_(Advanced_Level)_Practice
 
-> 代码链接:[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
+> Code Link(C/C++):[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 >
 
-|ID|TITLE|C/C++ code|备注|
+|ID|TITLE|C/C++ code|Remarks|
 |:-:|:-:|:-:|:-:|
 |[1001](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)|A+B Format (20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1001%20A%2BB%20Format%20(20).cpp)||
 |[1002](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000)|A+B for Polynomials (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1002%20A%2BB%20for%20Polynomials%20(25).cpp)||
