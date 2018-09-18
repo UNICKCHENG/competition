@@ -3,19 +3,15 @@
 
 PTA will be updated in this branch by me.You can **Watch** or **Start** this Repository to receive project update message in the first time. Of course, you can **[Issue](https://github.com/UNICKCHENG/competition/issues)** to me when you meet some problems.
 
-- [PAT (Basic Level) Practice](https://pintia.cn/problem-sets/994805260223102976/problems)
-- [PAT (Advanced Level) Practice](https://pintia.cn/problem-sets/994805342720868352/problems)
-- [PAT (Top Level) Practice)](https://pintia.cn/problem-sets/994805148990160896/problems)
-
-If you want to enter the official question bank, you can click on the link above.
+> If you want to enter the official question bank, you can click on the link bellow.
 
 ## 目录
 
 - [HOME](https://github.com/UNICKCHENG/competition)
 
-- [PAT (Basic Level) Practice](#PAT)
-- [PAT (Advanced Level) Practice](#PAT)
-- PAT (Top Level) Practice)
+- [PAT (Basic Level) Practice](https://pintia.cn/problem-sets/994805260223102976/problems)
+- [PAT (Advanced Level) Practice](https://pintia.cn/problem-sets/994805342720868352/problems)
+- [PAT (Top Level) Practice)](https://pintia.cn/problem-sets/994805148990160896/problems)
 
 ---
 
