@@ -36,7 +36,7 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 
 
 
-# PAT
+# PAT-A
 
 > Code Link(C/C++):[https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-A)
 >
@@ -96,3 +96,7 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 |[1051](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944)|Pop Sequence (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1051%20Pop%20Sequence%20(25).cpp)|栈的基本操作|
 |[1052](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464)|Linked List Sorting (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1052%20Linked%20List%20Sorting%20(25).cpp)|链表操作|
 |[1053](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512)|Path of Equal Weight (30)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1053%20Path%20of%20Equal%20Weight%20(30).cpp)|树的深度遍历|
+|[1065](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336)|A+B and C (64bit)(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1065%20A%2BB%20and%20C%20(64bit)(20).cpp)|模拟题|
+|[1069](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088)|The Black Hole of Numbers(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1069%20The%20Black%20Hole%20of%20Numbers%20(20).cpp)|数学题|
+|[1070](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)|Moon cake(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1070%20Mooncake(25).cpp)|贪心算法|
+|||||
