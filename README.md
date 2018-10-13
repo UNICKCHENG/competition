@@ -1,4 +1,7 @@
+
+
 # PAT  Practice
+
 *Updating～*<br>
 
 PTA will be updated in this branch by me.You can **Watch** or **Start** this Repository to receive project update message in the first time. Of course, you can **[Issue](https://github.com/UNICKCHENG/competition/issues)** to me when you meet some problems.
@@ -99,4 +102,6 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 |[1065](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336)|A+B and C (64bit)(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1065%20A%2BB%20and%20C%20(64bit)(20).cpp)|模拟题|
 |[1069](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088)|The Black Hole of Numbers(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1069%20The%20Black%20Hole%20of%20Numbers%20(20).cpp)|数学题|
 |[1070](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)|Moon cake(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1070%20Mooncake(25).cpp)|贪心算法|
+|[1071](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616)|Speech Patterns(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1071%20Speech%20Patterns(25).cpp)|map映射|
+|[1073](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)|Scientific Notation(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1073%20Scientific%20Notation(20).cpp)|模拟题|
 |||||
