@@ -104,4 +104,5 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 |[1070](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376)|Moon cake(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1070%20Mooncake(25).cpp)|贪心算法|
 |[1071](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616)|Speech Patterns(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1071%20Speech%20Patterns(25).cpp)|map映射|
 |[1073](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)|Scientific Notation(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1073%20Scientific%20Notation(20).cpp)|模拟题|
+|[1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144)|Reversing Linked List (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1074%20Reversing%20Linked%20List%20(25).cpp)|链表|
 |||||
