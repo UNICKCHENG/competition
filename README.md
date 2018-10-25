@@ -106,3 +106,4 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 |[1073](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)|Scientific Notation(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1073%20Scientific%20Notation(20).cpp)|模拟题|
 |[1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144)|Reversing Linked List (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1074%20Reversing%20Linked%20List%20(25).cpp)|链表|
 |[1075](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032)|PAT Judge (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1075%20PAT%20Judge%20(25)%20.cpp)|排序|
+|[1078](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592)|1078 Hashing (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1078%20Hashing%20(25).cpp)|哈希表|
