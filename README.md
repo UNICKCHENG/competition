@@ -107,3 +107,7 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 |[1074](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144)|Reversing Linked List (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1074%20Reversing%20Linked%20List%20(25).cpp)|链表|
 |[1075](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032)|PAT Judge (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1075%20PAT%20Judge%20(25)%20.cpp)|排序|
 |[1078](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592)|Hashing (25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1078%20Hashing%20(25).cpp)|哈希表|
+|[1081](https://pintia.cn/problem-sets/994805342720868352/problems/994805386161274880)|Rational Sum(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1081%20Rational%20Sum(20).cpp)|最大公约数|
+|[1084](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672)|Broken Keyboard(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1084%20Broken%20Keyboard(20).cpp)|map映射|
+|[1085](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)|Perfect Sequence(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1085%20Perfect%20Sequence(25).cpp)|二分法|
+|[1086](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024)|Tree Traversals Again(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1086%20Tree%20Traversals%20Again(25).cpp)|树的构建|
