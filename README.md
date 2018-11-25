@@ -26,6 +26,7 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 
 |                              ID                              |        TITLE         |                          C/C++ code                          |  Remarks   |
 | :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: | :--------: |
+| [1080](https://pintia.cn/problem-sets/994805260223102976/problems/994805261493977088) |   MOOC期终成绩(25)   | [查看题解](https://github.com/Jyeeee/competition/blob/PAT/PAT-B/1080%20MOOC%E6%9C%9F%E7%BB%88%E6%88%90%E7%BB%A9(25).cpp) |    排序    |
 | [1081](https://pintia.cn/problem-sets/994805260223102976/problems/994805261217153024) |     检查密码(15)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1081%20%E6%A3%80%E6%9F%A5%E5%AF%86%E7%A0%81(15).cpp) | 字符串遍历 |
 | [1082](https://pintia.cn/problem-sets/994805260223102976/problems/994805260990660608) |     射击比赛(20)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1082%20%E5%B0%84%E5%87%BB%E6%AF%94%E8%B5%9B(20).cpp) |  数学问题  |
 | [1083](https://pintia.cn/problem-sets/994805260223102976/problems/994805260780945408) | 是否存在相等的差(20) | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1083%20%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%9B%B8%E7%AD%89%E7%9A%84%E5%B7%AE(20).cpp) |  哈希映射  |
