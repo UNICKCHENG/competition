@@ -24,19 +24,20 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 
 > Code Link(C/C++): [https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B](https://github.com/UNICKCHENG/competition/tree/PAT/PAT-B)
 
-|                              ID                              |        TITLE         |                          C/C++ code                          |  Remarks   |
-| :----------------------------------------------------------: | :------------------: | :----------------------------------------------------------: | :--------: |
-| [1080](https://pintia.cn/problem-sets/994805260223102976/problems/994805261493977088) |   MOOC期终成绩(25)   | [查看题解](https://github.com/Jyeeee/competition/blob/PAT/PAT-B/1080%20MOOC%E6%9C%9F%E7%BB%88%E6%88%90%E7%BB%A9(25).cpp) |    排序    |
-| [1081](https://pintia.cn/problem-sets/994805260223102976/problems/994805261217153024) |     检查密码(15)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1081%20%E6%A3%80%E6%9F%A5%E5%AF%86%E7%A0%81(15).cpp) | 字符串遍历 |
-| [1082](https://pintia.cn/problem-sets/994805260223102976/problems/994805260990660608) |     射击比赛(20)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1082%20%E5%B0%84%E5%87%BB%E6%AF%94%E8%B5%9B(20).cpp) |  数学问题  |
-| [1083](https://pintia.cn/problem-sets/994805260223102976/problems/994805260780945408) | 是否存在相等的差(20) | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1083%20%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%9B%B8%E7%AD%89%E7%9A%84%E5%B7%AE(20).cpp) |  哈希映射  |
-| [1084](https://pintia.cn/problem-sets/994805260223102976/problems/994805260583813120) |     外观数列(20)     | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1084%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97(20).cpp) |  数组处理  |
-| [1085](https://pintia.cn/problem-sets/994805260223102976/problems/994805260353126400) |   PAT单位排行(25)    | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1085%20PAT%E5%8D%95%E4%BD%8D%E6%8E%92%E8%A1%8C(25).cpp) |  排序问题  |
-| [1086](https://pintia.cn/problem-sets/994805260223102976/problems/1038429065476579328) |    就不告诉你(15)    | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1086%20%E5%B0%B1%E4%B8%8D%E5%91%8A%E8%AF%89%E4%BD%A0(15).cpp) |  数学问题  |
-| [1087](https://pintia.cn/problem-sets/994805260223102976/problems/1038429191091781632) |  有多少不同的值(20)  | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1087%20%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%8D%E5%90%8C%E7%9A%84%E5%80%BC(20).cpp) |  哈希映射  |
-| [1088](https://pintia.cn/problem-sets/994805260223102976/problems/1038429286185074688) |      三人行(20)      | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1088%20%E4%B8%89%E4%BA%BA%E8%A1%8C(20).cpp) |   逻辑题   |
-| [1089](https://pintia.cn/problem-sets/994805260223102976/problems/1038429385296453632) |  狼人杀-简单版(20)   | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1089%20%E7%8B%BC%E4%BA%BA%E6%9D%80-%E7%AE%80%E5%8D%95%E7%89%88(20).cpp) |   逻辑题   |
-| [1090](https://pintia.cn/problem-sets/994805260223102976/problems/1038429484026175488) |    危险品装箱(25)    | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1090%20%E5%8D%B1%E9%99%A9%E5%93%81%E8%A3%85%E7%AE%B1(25).cpp) |  map操作   |
+|                              ID                              |             TITLE             |                          C/C++ code                          |  Remarks   |
+| :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: | :--------: |
+| [1001](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528) | 害死人不偿命的(3n+1)猜想 (15) | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1001_%E5%AE%B3%E6%AD%BB%E4%BA%BA%E4%B8%8D%E5%81%BF%E5%91%BD%E7%9A%84(3n%2B1)%E7%8C%9C%E6%83%B3.cpp) |            |
+| [1080](https://pintia.cn/problem-sets/994805260223102976/problems/994805261493977088) |       MOOC期终成绩(25)        | [查看题解](https://github.com/Jyeeee/competition/blob/PAT/PAT-B/1080%20MOOC%E6%9C%9F%E7%BB%88%E6%88%90%E7%BB%A9(25).cpp) |    排序    |
+| [1081](https://pintia.cn/problem-sets/994805260223102976/problems/994805261217153024) |         检查密码(15)          | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1081%20%E6%A3%80%E6%9F%A5%E5%AF%86%E7%A0%81(15).cpp) | 字符串遍历 |
+| [1082](https://pintia.cn/problem-sets/994805260223102976/problems/994805260990660608) |         射击比赛(20)          | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1082%20%E5%B0%84%E5%87%BB%E6%AF%94%E8%B5%9B(20).cpp) |  数学问题  |
+| [1083](https://pintia.cn/problem-sets/994805260223102976/problems/994805260780945408) |     是否存在相等的差(20)      | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1083%20%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%9B%B8%E7%AD%89%E7%9A%84%E5%B7%AE(20).cpp) |  哈希映射  |
+| [1084](https://pintia.cn/problem-sets/994805260223102976/problems/994805260583813120) |         外观数列(20)          | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1084%20%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97(20).cpp) |  数组处理  |
+| [1085](https://pintia.cn/problem-sets/994805260223102976/problems/994805260353126400) |        PAT单位排行(25)        | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1085%20PAT%E5%8D%95%E4%BD%8D%E6%8E%92%E8%A1%8C(25).cpp) |  排序问题  |
+| [1086](https://pintia.cn/problem-sets/994805260223102976/problems/1038429065476579328) |        就不告诉你(15)         | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1086%20%E5%B0%B1%E4%B8%8D%E5%91%8A%E8%AF%89%E4%BD%A0(15).cpp) |  数学问题  |
+| [1087](https://pintia.cn/problem-sets/994805260223102976/problems/1038429191091781632) |      有多少不同的值(20)       | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1087%20%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%8D%E5%90%8C%E7%9A%84%E5%80%BC(20).cpp) |  哈希映射  |
+| [1088](https://pintia.cn/problem-sets/994805260223102976/problems/1038429286185074688) |          三人行(20)           | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1088%20%E4%B8%89%E4%BA%BA%E8%A1%8C(20).cpp) |   逻辑题   |
+| [1089](https://pintia.cn/problem-sets/994805260223102976/problems/1038429385296453632) |       狼人杀-简单版(20)       | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1089%20%E7%8B%BC%E4%BA%BA%E6%9D%80-%E7%AE%80%E5%8D%95%E7%89%88(20).cpp) |   逻辑题   |
+| [1090](https://pintia.cn/problem-sets/994805260223102976/problems/1038429484026175488) |        危险品装箱(25)         | [查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-B/1090%20%E5%8D%B1%E9%99%A9%E5%93%81%E8%A3%85%E7%AE%B1(25).cpp) |  map操作   |
 
 
 
