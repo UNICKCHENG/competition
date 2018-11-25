@@ -113,3 +113,4 @@ PTA will be updated in this branch by me.You can **Watch** or **Start** this Rep
 |[1084](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672)|Broken Keyboard(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1084%20Broken%20Keyboard(20).cpp)|map映射|
 |[1085](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)|Perfect Sequence(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1085%20Perfect%20Sequence(25).cpp)|二分法|
 |[1086](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024)|Tree Traversals Again(25)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1086%20Tree%20Traversals%20Again(25).cpp)|树的构建|
+|[1088](https://pintia.cn/problem-sets/994805342720868352/problems/994805378443755520)|Rational Arithmetic(20)|[查看题解](https://github.com/UNICKCHENG/competition/blob/PAT/PAT-A/1088%20Rational%20Arithmetic(20).cpp)|分数的计算|
