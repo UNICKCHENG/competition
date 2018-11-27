@@ -1,5 +1,3 @@
-()
-
 # PAT  Practice
 
 *Updating～*<br>
