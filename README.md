@@ -28,7 +28,7 @@
 3. **PAT-T(PAT (Top Level) Practice)**
 
 - 练习系统:[https://pintia.cn/problem-sets/994805148990160896/problems](https://pintia.cn/problem-sets/994805148990160896/problems)
-- 代码地址:*待开始...*
+- 代码地址:*待上传...*
 
 关于PAT所有代码被存放在该项目[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)下,如过你想将代码拷贝至本地,请输入下述命令
 
