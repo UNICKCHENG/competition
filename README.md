@@ -40,4 +40,4 @@
 > 代码地址:[https://github.com/UNICKCHENG/competition/tree/lanqiao](https://github.com/UNICKCHENG/competition/tree/lanqiao)
 
 ## 鸣谢
-- 感谢[jyq](https://github.com/Jyeeee)对[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)的README中部分内容进行整理
+- 感谢[@jyq](https://github.com/Jyeeee)对[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)下的README.md中部分内容进行细心整理
