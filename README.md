@@ -6,6 +6,7 @@
 ## 目录
 - [PAT(计算机程序设计能力考试)](#PAT)
 - [蓝桥杯](#蓝桥杯)
+- [鸣谢](#鸣谢)
 
 ---
 
@@ -30,12 +31,6 @@
 - 练习系统:[https://pintia.cn/problem-sets/994805148990160896/problems](https://pintia.cn/problem-sets/994805148990160896/problems)
 - 代码地址:*待上传...*
 
-关于PAT所有代码被存放在该项目[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)下,如过你想将代码拷贝至本地,请输入下述命令
-
-```
-$ git clone -b PAT https://github.com/UNICKCHENG/competition.git
-```
-
 
 
 ## 蓝桥杯
@@ -44,9 +39,5 @@ $ git clone -b PAT https://github.com/UNICKCHENG/competition.git
 >
 > 代码地址:[https://github.com/UNICKCHENG/competition/tree/lanqiao](https://github.com/UNICKCHENG/competition/tree/lanqiao)
 
-关于蓝桥杯部分代码被存放在该项目[lanqiao分支](https://github.com/UNICKCHENG/competition/tree/lanqiao)下,如果你想将代码拷贝至本地,请输入下述命令
-
-```
-$ git clone -b lanqiao https://github.com/UNICKCHENG/competition.git
-```
-
+## 鸣谢
+- 感谢[jyq](https://github.com/Jyeeee)对[PAT目录](https://github.com/UNICKCHENG/competition/tree/PAT)的部分整理
