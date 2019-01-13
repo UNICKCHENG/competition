@@ -62,18 +62,18 @@
 
 #### 省赛圈
 
-| 序号 |    题目    | 题解（C/C++） | 题解（JAVA） | 备注 |
-| :--: | :--------: | :-----------: | ------------ | :--: |
-|  1   |   第几天   |               |              |      |
-|  2   |    明码    |               |              |      |
-|  3   |  乘积尾零  |               |              |      |
-|  4   |  测试次数  |               |              |      |
-|  5   |  快速排序  |               |              |      |
-|  6   | 递增三元组 |               |              |      |
-|  7   |  螺旋折线  |               |              |      |
-|  8   |  日志统计  |               |              |      |
-|  9   |  全球变暖  |               |              |      |
-|  10  |  乘积最大  |               |              |      |
+| 序号 |    题目    |                        题解（C/C++）                         |                  题解（JAVA）                  |                             备注                             |
+| :--: | :--------: | :----------------------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: |
+|  1   |   第几天   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/1.cpp) | [代码](https://paste.ubuntu.com/p/vXWkNfZkgR/) |                                                              |
+|  2   |    明码    | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/2.cpp) | [代码](https://paste.ubuntu.com/p/w5T4fV9fyP/) |                                                              |
+|  3   |  乘积尾零  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/3.cpp) | [代码](https://paste.ubuntu.com/p/Z3ZzQvySJ3/) |                                                              |
+|  4   |  测试次数  |                            [代码]                            |                     [代码]                     | [谷歌面试题参考](https://mp.weixin.qq.com/s?__biz=MzAxOTc5MDY2NA==&mid=2651974453&idx=1&sn=d94b02b4e36f579320930f5117fd540e&mpshare=1&scene=23&srcid=0426FhZVbioCW1nCHE97kt4X#rd) |
+|  5   |  快速排序  |                            [代码]                            | [代码](https://paste.ubuntu.com/p/cb6hjtkknN/) |                                                              |
+|  6   | 递增三元组 |                            [代码]                            | [代码](https://paste.ubuntu.com/p/HnGs53RHTk/) |                                                              |
+|  7   |  螺旋折线  |                            [代码]                            | [代码](https://paste.ubuntu.com/p/QHS7MBXXqr/) |                                                              |
+|  8   |  日志统计  |                            [代码]                            | [代码](https://paste.ubuntu.com/p/5dckpFZBpc/) |                                                              |
+|  9   |  全球变暖  |                            [代码]                            | [代码](https://paste.ubuntu.com/p/jtX4HGDqPM/) |                                                              |
+|  10  |  乘积最大  |                            [代码]                            |                     [代码]                     |                                                              |
 
 
 
