@@ -11,7 +11,7 @@
 #include<cmath>
 using namespace std;
 // zhicheng
-// January,10,2018
+// January,10,2019
 bool is_Prime(long long int n)
 {// 判断其是否为素数
     if(n<2) return false;

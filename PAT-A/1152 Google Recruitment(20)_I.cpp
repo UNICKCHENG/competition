@@ -8,7 +8,7 @@
 #include <string>
 using namespace std;
 // zhicheng
-// January,10,2018
+// January,10,2019
 bool isPrime(int n) 
 {
     if(n<2) return false;

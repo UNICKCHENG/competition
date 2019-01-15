@@ -20,7 +20,7 @@
 #include<cstring>
 using namespace std;
 // zhicheng
-// January,11,2018
+// January,11,2019
 typedef struct testees{
     char id[15];
     int sco;
