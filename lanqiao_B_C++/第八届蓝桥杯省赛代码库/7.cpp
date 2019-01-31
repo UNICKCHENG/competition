@@ -26,9 +26,10 @@ bool judge(int y,int m,int d)
     // 初步判读
     if(y<1960||y>2059) return false;
     if(m<1||m>12) return false;
-    if(d<1||d>month1[m]) return false;
+    if(d<1||d>31) return false;
     // 精确判断
-    if((y%4==0&&y%100!=0)||(y%400==0)) if(d>month2[m]) return false;
+    if((y%4==0&&y%100!=0)||(y%400==0)) {if(d>month2[m]) return false;}
+    else if(d>month1[m]) return false;
     return true;
 }
 int main()

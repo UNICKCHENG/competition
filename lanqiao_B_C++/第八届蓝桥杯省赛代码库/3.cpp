@@ -12,7 +12,7 @@ double a[35][35];
 const int diss=2086458231;
 int main()
 {
-    freopen("1.in","r",stdin);
+    // freopen("1.in","r",stdin);
     double tmp;
     memset(a,0,sizeof(a));
     for(int i=1;i<30;i++)

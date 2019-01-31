@@ -1,6 +1,8 @@
 /**
  * 方格分割
  * 509
+ * 先将所有满足对称性质的18个格子取出，查看该情况下联通块是否只有一个，如果唯一，则该情况满足
+ * 时间复杂度较高，但毕竟是填空题，A掉就方案不唯一了
 */
 #include<cstdio>
 #include<iostream>
@@ -27,7 +29,7 @@ void dfs(int x,int y)
 void slove(int k)
 {   
     if(k>18)
-    {
+    {// 取出18个各自后，查看是否只有一个联通块
         memset(vis,false,sizeof(vis));
         int f=0;
         for(int i=0;i<6;i++)
@@ -44,7 +46,7 @@ void slove(int k)
         return;
     }
     for(int i=a[k-1]+1;i<=18+k;i++) 
-    {
+    {// 递归取出18个格子，要求这18个格子和另外18个格子满足中心对称
         a[k]=i;
         m[a[k]]=true;// 该点已选
         if(!m[36-a[k]+1]) slove(k+1);// 且该点的对称点未被选取

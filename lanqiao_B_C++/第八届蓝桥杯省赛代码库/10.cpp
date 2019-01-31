@@ -10,6 +10,7 @@ const int maxn=100010;
 int co[maxn];
 int main()
 {
+    freopen("1.in","r",stdin);
     int n,k,tmp,pos=0,ans=0;
     memset(co,0,sizeof(co));
     scanf("%d %d",&n,&k);

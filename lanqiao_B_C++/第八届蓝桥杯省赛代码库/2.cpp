@@ -1,6 +1,8 @@
 /**
  * 等差素数列
  * 210
+ * 规律结论：长度为n的素数等差数列，公差k一定包含了小于n的所有素数因子。所以这题可以秒过。
+ * 公式计算是 2*3*5*7=210
 */
 #include<cstdio>
 #include<iostream>
@@ -12,7 +14,7 @@ int primes[11111111];
 bool vis[11111111];
 int num=0;
 void per_prime()
-{
+{// 先筛取10000以内的所有素数
     memset(vis,true,sizeof(vis));
     for(int i=2;i<=maxn;++i)
     {
@@ -29,7 +31,6 @@ void per_prime()
 int main()
 {
     per_prime();
-    // for(int i=1;i<=num;i++) printf("%d ",primes[i]);
     for(int d=2;d<maxn;d++)
     {
         for(int k=1;k<=num;k++)
