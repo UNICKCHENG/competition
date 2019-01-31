@@ -86,6 +86,19 @@
 
 #### 省赛圈
 
+| 序号 |     题目     | 题解(C/C++) | 题解(Java) | 备注 |
+| :--: | :----------: | :---------: | :--------: | :--: |
+|  1   |    购物单    |             |            |      |
+|  2   |  等差素数列  |             |            |      |
+|  3   |   承压计算   |             |            |      |
+|  4   |   方格分割   |             |            |      |
+|  5   |    取数位    |             |            |      |
+|  6   | 最大公共子串 |             |            |      |
+|  7   |   日期问题   |             |            |      |
+|  8   |   包子凑数   |             |            |      |
+|  9   |   分巧克力   |             |            |      |
+|  10  |   k倍区间    |             |            |      |
+
 
 
 ### 第七届蓝桥杯B组
@@ -96,18 +109,18 @@
 
 #### 省赛圈
 
-| 序号 |   题目   |                        题解（C/C++）                         | 题解（Java） |                备注                |
-| :--: | :------: | :----------------------------------------------------------: | :----------: | :--------------------------------: |
-|  1   | 煤球数目 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/1.cpp) |    [代码]    |                水题                |
-|  2   | 生日蜡烛 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/2.cpp) |    [代码]    | $\frac{(x+y)\times(y-x+1)}{2}=236$ |
-|  3   |  凑算式  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/3.cpp) |    [代码]    |       next_permutation()函数       |
-|  4   | 快速排序 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/4.cpp) |    [代码]    |              快速排序              |
-|  5   |   抽签   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/5.cpp) |    [代码]    |            考察dfs能力             |
-|  6   | 方格填数 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/6.cpp) |    [代码]    |       next_permutation()函数       |
-|  7   |  剪邮票  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/7.cpp) |    [代码]    |               联通块               |
-|  8   | 四平方和 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/8.cpp) |    [代码]    |               **WA**               |
-|  9   | 交换瓶子 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/9.cpp) |    [代码]    |               **WA**               |
-|  10  | 最大比例 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/10.cpp) |    [代码]    |               **WA**               |
+| 序号 |   题目   |                        题解（C/C++）                         | 题解（Java） |          备注          |
+| :--: | :------: | :----------------------------------------------------------: | :----------: | :--------------------: |
+|  1   | 煤球数目 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/1.cpp) |    [代码]    |          水题          |
+|  2   | 生日蜡烛 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/2.cpp) |    [代码]    |   (x+y)(y-x+1)/2=236   |
+|  3   |  凑算式  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/3.cpp) |    [代码]    | next_permutation()函数 |
+|  4   | 快速排序 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/4.cpp) |    [代码]    |        快速排序        |
+|  5   |   抽签   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/5.cpp) |    [代码]    |      考察dfs能力       |
+|  6   | 方格填数 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/6.cpp) |    [代码]    | next_permutation()函数 |
+|  7   |  剪邮票  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/7.cpp) |    [代码]    |         联通块         |
+|  8   | 四平方和 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/8.cpp) |    [代码]    |         **WA**         |
+|  9   | 交换瓶子 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/9.cpp) |    [代码]    |         **WA**         |
+|  10  | 最大比例 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/10.cpp) |    [代码]    |         **WA**         |
 
 
 
