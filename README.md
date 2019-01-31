@@ -86,18 +86,18 @@
 
 #### 省赛圈
 
-| 序号 |     题目     | 题解(C/C++) | 题解(Java) | 备注 |
-| :--: | :----------: | :---------: | :--------: | :--: |
-|  1   |    购物单    |             |            |      |
-|  2   |  等差素数列  |             |            |      |
-|  3   |   承压计算   |             |            |      |
-|  4   |   方格分割   |             |            |      |
-|  5   |    取数位    |             |            |      |
-|  6   | 最大公共子串 |             |            |      |
-|  7   |   日期问题   |             |            |      |
-|  8   |   包子凑数   |             |            |      |
-|  9   |   分巧克力   |             |            |      |
-|  10  |   k倍区间    |             |            |      |
+| 序号 |     题目     |                         题解(C/C++)                          | 题解(Java) |              备注               |
+| :--: | :----------: | :----------------------------------------------------------: | :--------: | :-----------------------------: |
+|  1   |    购物单    | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/1.cpp) |   [代码]   |            正常水题             |
+|  2   |  等差素数列  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/2.cpp) |   [代码]   |   有论文公式，忘记了则暴力求    |
+|  3   |   承压计算   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/3.cpp) |   [代码]   |          看出矩阵去求           |
+|  4   |   方格分割   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/4.cpp) |   [代码]   | 联通块，思想同上届省赛B组第七题 |
+|  5   |    取数位    | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/5.cpp) |   [代码]   |              水题               |
+|  6   | 最大公共子串 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/6.cpp) |   [代码]   |          动态规划思想           |
+|  7   |   日期问题   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/7.cpp) |   [代码]   |           【未测试】            |
+|  8   |   包子凑数   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/8.cpp) |   [代码]   |           【未测试】            |
+|  9   |   分巧克力   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/9.cpp) |   [代码]   |             【空】              |
+|  10  |   k倍区间    | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/10.cpp) |   [代码]   |           【未测试】            |
 
 
 
