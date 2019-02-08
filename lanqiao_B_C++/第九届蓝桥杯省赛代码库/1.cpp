@@ -1,5 +1,6 @@
 /**
  * 输入一个日期（yyyy/mm/dd）如果定义这一年的1月1日为第一天，那么这一天是这一年的第几天
+ * 125
 */
 #include<cstdio>
 #include<iostream>

@@ -1,5 +1,6 @@
 /**
  * 注意：负数在计算机中采用补码的形式存储
+ * 9的9次方 387420489
 */
 #include<cstdio>
 #include<iostream>

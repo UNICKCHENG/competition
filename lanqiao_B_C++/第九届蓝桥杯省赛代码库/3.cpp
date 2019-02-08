@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    freopen("1.in","r",stdin);
+    // freopen("1.in","r",stdin);
     int tmp,num2=0,num5=0;
     for(int i=0;i<10;i++)
         for(int j=0;j<10;j++)
