@@ -50,6 +50,19 @@
 
 #### 省赛圈
 
+| 序号 |   题目   |                        题解（C/C++）                         |     答案或数据集     |       备注       |
+| :--: | :------: | :----------------------------------------------------------: | :------------------: | :--------------: |
+|  1   | 网友年龄 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/1.cpp) |          7           |      签到题      |
+|  2   | 生日蜡烛 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/2.cpp) |          26          |      签到题      |
+|  3   | 方格填数 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/3.cpp) |         1580         |  10!以内的暴力   |
+|  4   | 快速排序 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/4.cpp) |     swap(a,p,j);     |     快速排序     |
+|  5   | 消除尾一 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/5.cpp) |      x=x&(x+1);      |      位运算      |
+|  6   | 寒假作业 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/6.cpp) |          64          |     dfs+剪枝     |
+|  7   |  剪邮票  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/7.cpp) |         116          |    dfs联通块     |
+|  8   | 四平方和 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/8.cpp) | O(n^1.5)，暂无数据集 | 三层循环暴力签到 |
+|  9   | 密码脱落 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/9.cpp) |  O(n^2)，暂无数据集  |  最长公共子序列  |
+|  10  | 最大比例 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_A_C%2B%2B/%E7%AC%AC%E4%B8%83%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%81%E8%B5%9B%E4%BB%A3%E7%A0%81%E5%BA%93/10.cpp) |        未测试        | 分数的最大公约数 |
+
 
 
 ---
