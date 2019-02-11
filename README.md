@@ -1,6 +1,6 @@
 # 说明文档
 
-![](https://img.shields.io/badge/lanqiao-updating-brightgreen.svg)![](https://img.shields.io/badge/PAT-maintained-brightgreen.svg)
+![](https://img.shields.io/badge/lanqiao-updating-brightgreen.svg)  ![](https://img.shields.io/badge/PAT-maintained-brightgreen.svg)
 
 这个项目目前将只用于更新近些年来的蓝桥杯软件类赛题题解和PAT(浙江大学计算机程序设计能力考试)赛题题解
 
