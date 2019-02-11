@@ -1,4 +1,6 @@
-# 说明(中文版)
+# 说明文档
+
+![](https://img.shields.io/badge/lanqiao-updating-brightgreen.svg)![](https://img.shields.io/badge/PAT-maintained-brightgreen.svg)
 
 这个项目目前将只用于更新近些年来的蓝桥杯软件类赛题题解和PAT(浙江大学计算机程序设计能力考试)赛题题解
 
@@ -42,5 +44,30 @@
 >
 > 说明文档:<https://github.com/UNICKCHENG/competition/tree/lanqiao>
 
+1. **第七届蓝桥杯软件类个人赛(2016年)**
+
+- A组省赛代码地址:  *待更新*~
+- A组决赛代码地址: *待更新~*
+- B组省赛代码地址: *待更新~*
+- B组决赛代码地址: *待更新~*
+
+2. **第八届蓝桥杯软件类个人赛(2017年)**
+
+- A组省赛代码地址: *待更新~*
+- A组决赛代码地址: *待更新~*
+- B组省赛代码地址: *待更新~*
+- B组决赛代码地址: *待更新~*
+
+3. **第九届蓝桥杯软件类个人赛(2018年)**
+
+- A组省赛代码地址: *待更新~*
+- A组决赛代码地址: *待更新~*
+- B组省赛代码地址: *待更新~*
+- B组决赛代码地址: *待更新~*
+
+
+
 ## 鸣谢
-- 感谢[@jyq](https://github.com/Jyeeee)对[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)下的README.md中部分内容进行细心整理
+
+- 感谢[@jyq](https://github.com/Jyeeee)对[PAT分支](https://github.com/UNICKCHENG/competition/tree/PAT)下的README.md中大部分内容进行细心整理
+- 感谢@gy 提供[蓝桥杯软件类个人赛B组](https://github.com/UNICKCHENG/competition/tree/lanqiao)部分赛题的JAVA版本代码
