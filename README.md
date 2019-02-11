@@ -1,4 +1,7 @@
 # 蓝桥杯
+
+【TIPS:版本更新中，部分链接已失效】
+
 我将会在此处整理出已经做过的[蓝桥杯](http://dasai.lanqiao.cn/)往届赛题，内容将只会涉及到A组和B组省赛和决赛赛题，如有不足之处，或对相关题目的题解存有疑问，可在[Issues](https://github.com/UNICKCHENG/competition/issues)处指出，~~欢迎打脸~~请圈内大大们不吝赐教
 
 对于[蓝桥杯](http://dasai.lanqiao.cn/)历届赛题可以前去[官网辅导资料下](http://dasai.lanqiao.cn/pages/dasai/news_detail_w.html?id=644)进行下载，同时编辑器的选择，不论JAVA还是C/C++，[官网辅导资料下](http://dasai.lanqiao.cn/pages/dasai/news_detail_w.html?id=644)亦有压缩包，下载后即可使用，当然也可以用其他编辑器，只要顺手即可
