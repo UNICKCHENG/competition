@@ -1,6 +1,8 @@
 # 蓝桥杯
 
-【TIPS:版本更新中，部分链接已失效】
+![](https://img.shields.io/badge/lanqiao-updating-brightgreen.svg)
+
+【TIPS:版本更新中，本README.md下的部分链接已失效】
 
 我将会在此处整理出已经做过的[蓝桥杯](http://dasai.lanqiao.cn/)往届赛题，内容将只会涉及到A组和B组省赛和决赛赛题，如有不足之处，或对相关题目的题解存有疑问，可在[Issues](https://github.com/UNICKCHENG/competition/issues)处指出，~~欢迎打脸~~请圈内大大们不吝赐教
 
