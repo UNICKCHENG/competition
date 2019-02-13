@@ -1,8 +1,11 @@
+/**
+ * 四平方和
+*/
 #include<cstdio>
 #include<iostream>
 #include<cmath>
 using namespace std;
-
+// zhicheng
 int main()
 {
     int n;

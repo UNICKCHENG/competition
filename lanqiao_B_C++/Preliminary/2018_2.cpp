@@ -6,7 +6,7 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
-
+// zhicheng
 void print(int tmp)
 {
     int re[8],cnt=7;

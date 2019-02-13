@@ -1,8 +1,11 @@
+/**
+ * 交换瓶子
+*/
 #include<cstdio>
 #include<iostream>
 #include<algorithm>
 using namespace std;
-
+// zhicheng
 int a[10010];
 int main()
 {

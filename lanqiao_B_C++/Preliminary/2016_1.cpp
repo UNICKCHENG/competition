@@ -1,10 +1,11 @@
 /**
+ * 煤球数目
  * 答案：171700
 */
 #include<cstdio>
 #include<iostream>
 using namespace std;
-
+// zhicheng
 int main()
 {
     long long int ans=0;

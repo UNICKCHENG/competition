@@ -3,7 +3,7 @@
 #include<cmath>
 using namespace std;
 typedef unsigned long long ull;
-
+// zhicheng
 const int FLG=8;
 
 ull dis(int x,int y)

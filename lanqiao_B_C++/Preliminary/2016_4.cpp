@@ -1,17 +1,19 @@
 /**
+ * 快速排序
  * swap(a,p,j);
 */
+// zhicheng
 #include <stdio.h>
 
 void swap(int a[], int i, int j)
-{
+{// 实现两数交换
 	int t = a[i];
 	a[i] = a[j];
 	a[j] = t;
 }
 
 int partition(int a[], int p, int r)
-{
+{// a[p]作为哨兵，将数组a重新排序，要求位于a[p]左边的元素不大于a[p]，右边的则不小于a[p;
     int i = p;
     int j = r + 1;
     int x = a[p];
@@ -27,7 +29,7 @@ int partition(int a[], int p, int r)
 }
 
 void quicksort(int a[], int p, int r)
-{
+{// 快排接口
     if(p<r){
         int q = partition(a,p,r);// 将所有元素和哨兵比较，获得更新后的哨兵位置，要求左边的值比哨兵小，右边的值比哨兵大
         quicksort(a,p,q-1);

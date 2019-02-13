@@ -1,6 +1,7 @@
 /**
  * 最大公共子串
  * a[i][j]=a[i-1][j-1]+1;
+ * zhicheng
 */
 #include <stdio.h>
 #include <string.h>

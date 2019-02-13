@@ -1,6 +1,7 @@
 /**
  * 取数位
  * return f(x/10,k);
+ * zhicheng
 */
 #include<stdio.h>
 // 求x用10进制表示时的数位长度 

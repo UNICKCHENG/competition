@@ -1,10 +1,11 @@
 /**
+ * 生日蜡烛
  * 26
 */
 #include<cstdio>
 #include<iostream>
 using namespace std;
-
+// zhicheng
 int main()
 {
     int ans=236;

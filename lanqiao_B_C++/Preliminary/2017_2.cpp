@@ -4,6 +4,7 @@
  * 规律结论：长度为n的素数等差数列，公差k一定包含了小于n的所有素数因子。所以这题可以秒过。
  * 公式计算是 2*3*5*7=210
 */
+// zhicheng
 #include<cstdio>
 #include<iostream>
 #include<cstring>

@@ -6,7 +6,7 @@
 #include<algorithm>
 #include<cstring>
 using namespace std;
-
+// zhicheng
 const int maxn=105;
 int a[maxn];
 int dp[100*100+5];

@@ -5,7 +5,7 @@
 #include<cstdio>
 #include<iostream>
 using namespace std;
-
+// zhicheng
 int month1[]={0,31,28,31,30,31,30,31,31,30,31,30,31};// 平年
 int month2[]={0,31,29,31,30,31,30,31,31,30,31,30,31};// 闰年
 

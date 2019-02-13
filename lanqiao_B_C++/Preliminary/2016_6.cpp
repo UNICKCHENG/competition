@@ -1,6 +1,9 @@
 /**
+ * 方格填数
  * 1580
+ * 解题思路：10!,暴力大法好
 */
+// zhicheng
 #include<cstdio>
 #include<iostream>
 #include<algorithm>

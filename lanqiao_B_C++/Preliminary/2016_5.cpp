@@ -1,6 +1,8 @@
 /**
+ * 抽签
  * f(a,k+1,m-i,b);
 */
+// zhicheng
 #include <stdio.h>
 #define N 6
 #define M 5
