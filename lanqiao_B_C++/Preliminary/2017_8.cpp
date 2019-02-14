@@ -1,5 +1,7 @@
 /**
  * 包子凑数
+ * 解题思路：GCD+背包问题
+ * 首先GCD判断一下，如果最大公约数不是1的话输出INF，如果是的话，看出背包问题进行处理
 */
 #include<cstdio>
 #include<iostream>
@@ -14,7 +16,6 @@ int dp[100*100+5];
 int gcd(int a,int b){return b==0?a:gcd(b,a%b);}
 int main()
 {
-    // freopen("1.in","r",stdin);
     int n; scanf("%d",&n);
     scanf("%d",&a[0]);
     int g=a[0];
@@ -40,7 +41,7 @@ int main()
         {
             if(!dp[i]) ans++;
         }
-        printf("%d\n",ans);
+        printf("%d",ans);
     }
     return 0; 
 }
