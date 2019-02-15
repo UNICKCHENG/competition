@@ -1,9 +1,15 @@
+/**
+ * 全球变暖
+ * 算法设计: dfs联通块
+ * 利用dfs进行求出岛屿数目ans，同时又有多少岛屿存在内部不与水相接的岛屿数目exi,ans-exi便是消失的岛屿数目。
+*/
 #include<cstdio>
 #include<iostream>
 #include<cstring>
 #include<string>
 using namespace std;
 // zhicheng
+// February,2019
 const int maxn=1005;
 char gra[maxn][maxn];
 int vis[maxn][maxn];
@@ -43,6 +49,6 @@ int main()
             }
         }
     }
-    printf("%d\n",ans-exi);
+    printf("%d",ans-exi);
     return 0;
 }
