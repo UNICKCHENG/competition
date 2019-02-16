@@ -1,3 +1,7 @@
+/**
+ * 乘积尾零
+ * 31
+*/
 #include<cstdio>
 #include<iostream>
 using namespace std;

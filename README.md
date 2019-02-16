@@ -56,8 +56,8 @@
 |  ID  | TITLE | CODE(C/C++) | CODE(Java) | DATA | REMARK |
 | :--: | :---: | :--: | :--: | :----: | :----: |
 | 2018_01 |   第几天   | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_1.cpp) | [代码](https://paste.ubuntu.com/p/vXWkNfZkgR/) | 125 | 水题，找规律 |
-| 2018_02 |    明码    | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_2.cpp) | [代码](https://paste.ubuntu.com/p/w5T4fV9fyP/) | 387420489 | 补码和反码 |
-| 2018_03 |  乘积尾零  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_3.cpp) | [代码](https://paste.ubuntu.com/p/Z3ZzQvySJ3/) | 31 | 找规律 |
+| 2018_02 |    明码/方格计数    | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_2.cpp) | [代码](https://paste.ubuntu.com/p/w5T4fV9fyP/) | 387420489 | 补码和反码 |
+| 2018_03 |  乘积尾零/复数幂  | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_3.cpp) | [代码](https://paste.ubuntu.com/p/Z3ZzQvySJ3/) | 31 | 找规律 |
 | 2018_04 |  测试次数  |                            [代码]                            |                     [代码]                     |  | [谷歌面试题参考](https://mp.weixin.qq.com/s?__biz=MzAxOTc5MDY2NA==&mid=2651974453&idx=1&sn=d94b02b4e36f579320930f5117fd540e&mpshare=1&scene=23&srcid=0426FhZVbioCW1nCHE97kt4X#rd) |
 | 2018_05 | 快速排序 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_5.cpp) | [代码](https://paste.ubuntu.com/p/cb6hjtkknN/) | `a,i+1,r,k-(i-l+1)` | 模板 |
 | 2018_06 | 递增三元组 | [代码](https://github.com/UNICKCHENG/competition/blob/lanqiao/lanqiao_B_C%2B%2B/Preliminary/2018_6.cpp) | [代码](https://paste.ubuntu.com/p/HnGs53RHTk/) | O(n) | 组合 |
